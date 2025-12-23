@@ -71,5 +71,3 @@ YouTube shortcode:
 ```
 hugo --minify
 ```
-
-Output goes to `public/`.

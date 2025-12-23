@@ -5,7 +5,21 @@
         <description>Recent content in Posts on TR&#39;s Blog Adventure</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
+        <lastBuildDate>Tue, 23 Dec 2025 13:18:43 +0100</lastBuildDate>
         <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Introductory Post</title>
+            <link>http://localhost:1313/posts/myfirstpost/</link>
+            <pubDate>Tue, 23 Dec 2025 13:18:43 +0100</pubDate>
+            
+            <guid>http://localhost:1313/posts/myfirstpost/</guid>
+            <description>&lt;p&gt;This is an introductory post to the blog.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m 28, have a B.Sc. in electrical engineering, I&amp;rsquo;m a big WoW fan, and I like tinkering with computers.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>This is an introductory post to the blog.</p>
+<p>I&rsquo;m 28, have a B.Sc. in electrical engineering, I&rsquo;m a big WoW fan, and I like tinkering with computers.</p>
+]]></content>
+        </item>
         
     </channel>
 </rss>
