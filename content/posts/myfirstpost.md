@@ -1,5 +1,6 @@
 +++
 title = "My First Post"
+date = 2025-12-23
 +++
 
 This is an introductory post to the blog.
