@@ -1,0 +1,33 @@
+baseURL = "https://tredzepagic.github.io/"
+languageCode = "en-us"
+title = "TR's Blog Adventure"
+theme = "hello-friend-ng"
+
+[params]
+  description = "My blog where I will post whatever I feel is interesting."
+  homeSubtitle = "Notes on software, learning, and whatever feels interesting."
+
+  [params.author]
+    name = "Tarik Redžepagić"
+
+  [params.footer]
+    bottomText = [
+      "<a href=\"https://linkedin.com/in/tarikredzepagic\">LinkedIn</a>",
+      "<a href=\"https://github.com/TRedzepagic\">GitHub</a>",
+    ]
+  
+  [params.portrait]
+  path = "/portraits/portrait.png"
+  alt = "Tarik Redzepagic"
+  maxWidth = "120px"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "about/"
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "posts/"
